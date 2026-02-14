@@ -6,6 +6,6 @@
     <title>Geosite Sipinsur</title>
 </head>
 <body>
-    
+    <h1>Selamat datang di Geosite Sipinsur</h1>
 </body>
 </html>
